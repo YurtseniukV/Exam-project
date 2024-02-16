@@ -3,9 +3,6 @@ body {
     background-color: #19191B;
     overflow-x: hidden;
 }
-body>div.logo{
-    display: none;
-}
 header {
     height: 10vh;
     width: 100vw;
